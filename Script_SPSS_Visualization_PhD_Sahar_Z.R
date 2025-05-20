@@ -1,5 +1,5 @@
 # Set the working directory
-setwd("C:/Users/rafre/Dropbox/Fiverr/Trabalhos/2024/zahar")
+setwd("C:")
 
 library(haven)
 df <- read_sav("Augmented Reality and Virtual Reality in Architectural Practice_March 4_ 2025_13.38.sav")
